@@ -1,7 +1,7 @@
-# YorkBrew
+# SOC LAB
 
 
-This project is testing
+
 Lab Sections
 
 Part 1: Setting up a Virtualization Environment
