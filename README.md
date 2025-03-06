@@ -1,6 +1,10 @@
 # SOC LAB
 
 
+soc core skills w/ john strand
+https://www.youtube.com/watch?v=oOzihldLz7U&embeds_referring_euri=https%3A%2F%2Fblog.ecapuano.com%2F
+https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro
+
 
 Lab Sections
 
